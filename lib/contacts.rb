@@ -1,6 +1,6 @@
 require 'pry'
 
-  #contacts = {
+contacts = {
   "Jon Snow" => {
     name: "Jon",
     email: "jon_snow@thewall.we",
